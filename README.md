@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black"/>
+
 <!--
 **jing-jung/jing-jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
